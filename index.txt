@@ -1,4 +1,4 @@
-Richard Ryan
+Apoorva Singh
 
 This is a photographer portfolio html template, made by codewithsadee.
 
@@ -36,7 +36,7 @@ Urgent issue? call us at
 
 #---------- HERO ----------#
 
-Richard Ryan
+Apoorva Singh
 
 Photographer
 Shutterbug
@@ -99,7 +99,7 @@ Health & Wellnes.
 #---------- CATEGORY ----------#
 
 Hi. I’m
-Richard Ryan
+Apoorva Singh
 
 A passionate
 photograher
